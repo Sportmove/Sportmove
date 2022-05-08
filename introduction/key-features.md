@@ -1,6 +1,5 @@
 ---
-cover: ../.gitbook/assets/CAPAdiscord.png
-coverY: -15.56420233463035
+coverY: 0
 ---
 
 # 🇨🇲 Key Features

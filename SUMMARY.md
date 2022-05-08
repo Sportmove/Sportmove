@@ -15,4 +15,6 @@
 
 * [🇩🇪 Gameplay](gameplay/gameplay.md)
 * [🇦🇷 Activity parameters](gameplay/activity-parameters.md)
-* [Page 1](gameplay/page-1.md)
+* [🇧🇷 Energy System](gameplay/energy-system.md)
+* [🇨🇵 Level Upgrade](gameplay/level-upgrade.md)
+* [🇮🇹 Shirt attributes](gameplay/shirt-attributes.md)

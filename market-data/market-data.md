@@ -1,5 +1,6 @@
 ---
 description: To start, you need to download SPORTmove app
+coverY: 0
 ---
 
 # 🇪🇦 Getting Started

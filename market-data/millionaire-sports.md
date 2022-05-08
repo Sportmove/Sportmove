@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 🏆 Millionaire sports
 
 _**THE MARKET GREATNESS WE CAN ACHIEVE !**_

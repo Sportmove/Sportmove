@@ -1,7 +1,6 @@
 ---
 description: Gain in health and gain in cryptocurrencies!
-cover: .gitbook/assets/CAPAdiscord.png
-coverY: -17.509727626459142
+coverY: 0
 ---
 
 # 🇺🇾 SPORTmove mission

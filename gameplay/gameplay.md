@@ -1,5 +1,6 @@
 ---
 description: Buy 1 NFT T-shirt and you're ready for the new SPORTmove sports trend!
+coverY: 0
 ---
 
 # 🇩🇪 Gameplay
