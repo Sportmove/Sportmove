@@ -2,7 +2,7 @@
 description: Buy 1 NFT T-shirt and you're ready for the new SPORTmove sports trend!
 ---
 
-# Gameplay
+# 🇩🇪 Gameplay
 
 After purchasing your magnificent T-shirt, you will be able to practice your favorite sport, participate in the game and of course! Earn in-game cryptocurrencies – STM. With your earnings, you will have access to the following in-game activities:
 

@@ -2,6 +2,8 @@
 description: >-
   Revolutionizing the sports market. Earn unique NFTs and STM tokens by playing
   your favorite sport.
+cover: .gitbook/assets/CAPAdiscord.png
+coverY: -17.509727626459142
 ---
 
 # 🇻🇳 Overview

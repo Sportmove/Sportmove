@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/CAPAdiscord.png
+coverY: -15.56420233463035
+---
+
 # 🇨🇲 Key Features
 
 **General public:** Anyone can use our platform, regardless of their knowledge of NFT's or crypto. All we need is changing habits and playing sport using SPORTmove.

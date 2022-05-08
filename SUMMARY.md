@@ -9,8 +9,10 @@
 
 ## Getting Started
 
-* [🇪🇦 Getting Started](getting-started/getting-started.md)
+* [🇪🇦 Getting Started](market-data/market-data.md)
 
 ## Gameplay
 
-* [Gameplay](gameplay/gameplay.md)
+* [🇩🇪 Gameplay](gameplay/gameplay.md)
+* [🇦🇷 Activity parameters](gameplay/activity-parameters.md)
+* [Page 1](gameplay/page-1.md)
