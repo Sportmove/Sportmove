@@ -1,6 +1,19 @@
-# 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Starting point
+---
+description: >-
+  Revolutionizing the sports market. Earn unique NFTs and SPM tokens by playing
+  your favorite sport.
+---
 
-The cryptocurrency market has evolved considerably in recent years, becoming a global market with huge growth potential. Its decentralization features and transparency were key for its acceptance and recognition world.
+# 🇻🇳 Overview
 
-Blockchain is one of the innovative technologies companies that have the potential to impact tar the most varied segments of the eco- nomy, such as financial services,logistics, tourism, sports marketing, entertainment and many others with technological, robotic, in- artificial intelligence and inventions.
+&#x20;SportMove is an innovative platform that uses web3 technology and offers differentiated SPM and NFT tokens. It can be used to purchase new packages on the platform itself or even to make profits, with this objective we can add value to the sport practiced, where in addition to physical health, we will allow a financial gain.
+
+Purchase one of the various packages offered and differentiated in the form of T-shirts, practice any sport and you will earn cryptocurrencies in the game, which can be used in the application itself as you can withdraw and WIN practicing your favorite sport.
+
+\
+\
+
+
+\
+
 

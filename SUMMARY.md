@@ -2,9 +2,9 @@
 
 ## introduction
 
-* [🏴󠁧󠁢󠁥󠁮󠁧󠁿 Starting point](README.md)
-* [🇦🇷 Overview](introduction/overview.md)
-* [🇭🇷 Technological potential](introduction/technological-potential.md)
+* [🇻🇳 Overview](README.md)
+* [🇺🇾 SPORTmove mission](introduction/sportmove-mission.md)
+* [🏆 Millionaire sports](introduction/millionaire-sports.md)
 
 ## MARKET
 
@@ -15,7 +15,6 @@
 ## market data
 
 * [🇪🇦 Market data](market-data/market-data.md)
-* [🏆 Millionaire sports](market-data/millionaire-sports.md)
 
 ## Target Audience
 
