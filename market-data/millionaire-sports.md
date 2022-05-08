@@ -14,3 +14,5 @@ _**THE MARKET GREATNESS WE CAN ACHIEVE !**_
 | 8        | :tennis: **Tennis sport**    | US$ 6 BILLION   |
 | 9        | :rice\_cracker: **Cricket**  | US$ 6 BILLION   |
 | 10       | :boxing\_glove: **Boxe**     | US$ 348 MILLION |
+
+Source: The 10 richest sports in the world in 2022. Sports Browser.
