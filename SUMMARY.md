@@ -8,11 +8,14 @@
 
 ## MARKET
 
-* [Market](market/market.md)
+* [🇮🇪 Crypto asset market](market/crypto-asset-market.md)
+* [🇨🇱 Post pandemic](market/post-pandemic.md)
+* [🇯🇵 The platform](market/the-platform.md)
 
 ## market data
 
-* [Page 1](market-data/page-1.md)
+* [🇪🇦 Market data](market-data/market-data.md)
+* [🏆 Millionaire sports](market-data/millionaire-sports.md)
 
 ## Target Audience
 
