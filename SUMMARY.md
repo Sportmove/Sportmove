@@ -15,6 +15,9 @@
 
 * [🇩🇪 Gameplay](gameplay/gameplay.md)
 * [🇦🇷 Activity parameters](gameplay/activity-parameters.md)
-* [🇧🇷 Energy System](gameplay/energy-system.md)
+* [🇧🇷 Energy System](gameplay/page-1.md)
 * [🇨🇵 Level Upgrade](gameplay/level-upgrade.md)
 * [🇮🇹 Shirt attributes](gameplay/shirt-attributes.md)
+* [🇵🇱 SPORTmove box](gameplay/sportmove-box.md)
+* [🇧🇭 T-shirt Fusioning](gameplay/t-shirt-fusioning.md)
+* [🇦🇺 Anti-Cheating System](gameplay/anti-cheating-system.md)
