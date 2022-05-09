@@ -1,6 +1,8 @@
+---
+coverY: 0
+---
+
 # 🇬🇭 Tokenomics
-
-
 
 ### Supply
 

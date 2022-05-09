@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 🇦🇺 Anti-Cheating System
 
 We provide three ways to stop cheating during the game, where the cheater will suffer severe punishments. The following mechanics will be used:

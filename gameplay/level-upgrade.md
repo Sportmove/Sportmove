@@ -41,3 +41,9 @@ Each level upgrade will require the user to burn some STM tokens. Higher level u
 
 Each level upgrade will take time (in hours) same as the level user is upgrading to. While the  T-shirt is in upgrading process, It can not be used for any other activity apart from the working out and earning tokens.
 
+![T-shirt  in
+earn up to 1-3 tokens STM for 30 minutes of exercises](<../.gitbook/assets/CHAMPION (3).png>) ![T-shirt PLUS
+earn up to 4-7 tokens STM for 40 minutes of exercises](<../.gitbook/assets/RARE (1).png>) ![T-shirt PRO
+earn up to 8-11 tokens STM for 50 minutes of exercises](<../.gitbook/assets/SUPERRARE (3).png>) ![T-shirt PRO MAX G.
+earn up to 12-15 tokens STM for 60 minutes of exercises](<../.gitbook/assets/COMMON (1).png>)
+

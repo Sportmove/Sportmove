@@ -19,3 +19,5 @@ coverY: 0
 You are now ready!
 
 A small step for SPORTmove, but a huge leap for your health!
+
+![](../.gitbook/assets/phmarketplace.png) ![](<../.gitbook/assets/ph at.png>)

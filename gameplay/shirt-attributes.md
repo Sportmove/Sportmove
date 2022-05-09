@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 🇮🇹 Shirt attributes
 
 STM will start purchasing an NFT T-shirt and start walking, playing football, playing volleyball, running and cycling. The calculation of the following factors:&#x20;

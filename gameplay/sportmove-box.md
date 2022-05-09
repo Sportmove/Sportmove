@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 🇵🇱 SPORTmove box
 
 Collect 180 STM Box pieces to craft 1 random complete SPORTmove box, which can come in a Common, Rare, Ultra or Extreme Rare box.
