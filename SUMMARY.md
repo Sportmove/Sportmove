@@ -25,4 +25,9 @@
 ## Market place
 
 * [🇰🇷 Market Place](market-place/market-place.md)
-* [Page 1](market-place/page-1.md)
+* [🇧🇪 Trading System](market-place/trading-system.md)
+* [🇭🇷 Rare boxes and custom balls](market-place/rare-boxes-and-custom-balls.md)
+
+## tokenomics
+
+* [🇬🇭 Tokenomics](tokenomics/tokenomics.md)

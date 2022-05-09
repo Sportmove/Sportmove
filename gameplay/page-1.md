@@ -8,7 +8,9 @@ After purchasing the NFT T-SHIRT, you will receive a daily energy that will dete
 
 In the closed beta phase of the app, you will receive 30 energy points daily, which is basically 30 minutes of training (1 energy = 1 min). Energy will be given to you at various intervals - 10 energy for every STM you have every 8 hours. If you want more energy, you can rebuy for more energy at the price of 20 STM for 30 energy. Only 1 rebuy is allowed per day for each STM you own.
 
-**Case study**
+<mark style="color:blue;background-color:purple;">**Case study**</mark>
 
 1. If you have 1 T-shirt, you will have 30 energy/day, 10 energy every 8 hours and a maximum of 1 energy rebuy
 2. If you have 3 T-shirts, you will have 90 energy/day, 30 energy every 8 hours and a maximum of 3 energy rebuy
+
+![](../.gitbook/assets/Energy.PNG)
