@@ -31,8 +31,8 @@ STM token will be Fair Launch released in order to archive:
 
 #### Selling tax allocation
 
-* Buying tax is 2,5% - That means you buy token for FREE
-* Selling tax is 2,5% - This 2,5% will be divided in 2 pools
+* Buying tax is 1% - That means you buy token for FREE
+* Selling tax is 3% - This 3% will be divided in 2 pools
 
 1. Liquid pool: 2% for liquid pool
 2. Marketing and Reward Pool: 3%
