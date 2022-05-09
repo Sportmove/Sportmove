@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/CAPAtwitter.png
+cover: broken-reference
 coverY: 0
 ---
 
