@@ -42,4 +42,4 @@
 * [🇹🇷 Telegram](https://t.me/sport\_move)
 * [🇲🇲 Medium](https://medium.com/@sportmoveearn)
 * [🇸🇦 Discord Channel](https://discord.com/invite/2K3JkznpUc)
-* [Website](https://www.sportmove.app)
+* [🇪🇬 Website](https://www.sportmove.app)
