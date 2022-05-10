@@ -39,4 +39,6 @@
 
 ## Social media
 
-* [Page 1](social-media/page-1.md)
+* [🇹🇷 Telegram](https://t.me/sport\_move)
+* [🇲🇲 Medium](https://medium.com/@sportmoveearn)
+* [🇸🇦 Discord Channel](https://discord.com/invite/2K3JkznpUc)
