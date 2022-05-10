@@ -2,6 +2,7 @@
 description: >-
   Revolutionizing the sports market. Earn unique NFTs and STM tokens by playing
   your favorite sport.
+cover: .gitbook/assets/CAPA GITBOOK.jpg
 coverY: 0
 ---
 
@@ -12,6 +13,8 @@ coverY: 0
 Purchase one of the various packages offered and differentiated in the form of T-shirts, practice any sport and you will earn cryptocurrencies in the game, which can be used in the application itself as you can withdraw and WIN practicing your favorite sport.
 
 Contract official SPORTmove: 0x254433199984F5f43fFdA965d83a927635AFd300
+
+
 
 
 

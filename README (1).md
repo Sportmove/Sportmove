@@ -1,5 +1,6 @@
 ---
 description: Gain in health and gain in cryptocurrencies!
+cover: .gitbook/assets/CAPA GITBOOK.jpg
 coverY: 0
 ---
 
