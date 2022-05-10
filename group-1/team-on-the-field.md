@@ -5,8 +5,8 @@ coverY: 0
 
 # 🇺🇲 Team on the field
 
-![Lanildos
+![LANILDOS
 CEO](../.gitbook/assets/team1.png) ![BRYAN
-DEVELOPER](../.gitbook/assets/team2.png) ![MARK
-MARKETING](../.gitbook/assets/team3.png) ![JOSH
+DEVELOPER](../.gitbook/assets/team2.png) ![JOSH
+MARKETING](../.gitbook/assets/team3.png) ![MARK
 DESIGNER](../.gitbook/assets/team4.png)

@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/CAPA GITBOOK.jpg
 coverY: 0
 ---
 
@@ -35,4 +36,4 @@ STM token will be Fair Launch released in order to archive:
 * Selling tax is 3% - This 3% will be divided in 2 pools
 
 1. Liquid pool: 2% for liquid pool
-2. Marketing and Reward Pool: 3%
+2. Marketing and Reward Pool: 1%

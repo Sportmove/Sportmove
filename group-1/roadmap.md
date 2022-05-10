@@ -4,31 +4,34 @@ coverY: 0
 
 # 🏆 Roadmap
 
-Stage 1
+<mark style="background-color:purple;">**PHASE 1**</mark>
 
-* [ ] Design
-* [ ] Idea
-* [ ] Exercise Solo Mode
-* [ ] Support Binance Smart Chain (BSC)
-* [ ] Anti-Cheat with BPM
+* [ ] PROJECT IDEALIZATION
+* [ ] DESIGN
+* [ ] SUPPORT BSC
+* [ ] START OF APP DEVELOPMENT
+* [ ] ANTI-CHEAT
+* [ ] SPORT SOLO MODE
 
-Stage 2&#x20;
+<mark style="background-color:purple;">**PHASE 2**</mark>
 
-* [ ] Open marketplace
-* [ ] Run Open Beta (Android, IOS)
-* [ ] Run testnet
-* [ ] Exercises Move to Earn
+* [ ] RUN TEST NET
+* [ ] LIST PANCAKESWAP, CMC, CGK AND OTHER EXCHANGES
+* [ ] SPORT TO EARN
+* [ ] OPEN MARKETPLACE
+* [ ] TEST BETA APP (ANDROID, IOS)
 * [ ] IEO/IDO
-* [ ] List Pancakeswap, CoinMarketCap, CoinGecko
 
-Stage 3&#x20;
+<mark style="background-color:purple;">**PHASE 3**</mark>
 
-* [ ] BSC network support
-* [ ] New Function – Doing exercises together
-* [ ] Support Ethereum network, Polygon network
-* [ ] Add walletconnect (Metamask, TrustWallet…)
+* [ ] RELEASE BETA APP
+* [ ] SUPPORT SOLANA NERWORK
+* [ ] SUPPORT FANTOM NETWORK
+* [ ] SPORT MODO PARTY
 
-Stage 4&#x20;
+<mark style="background-color:purple;">**PHASE 4**</mark>
 
-* [ ] Quest system
-* [ ] Decentralized Autonomous Organization (DAO)
+* [ ] INCLUSION SPORTMOVE IN METAVERSE
+* [ ] ADD VISA CC BRIDGE FOR USE IN MARKETPLACE
+* [ ] QUEST SYSTEM
+* [ ] DAO INITIALIZATION
