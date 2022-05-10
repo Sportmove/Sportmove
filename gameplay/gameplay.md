@@ -1,5 +1,6 @@
 ---
 description: Buy 1 NFT T-shirt and you're ready for the new SPORTmove sports trend!
+cover: ../.gitbook/assets/CAPA GITBOOK.jpg
 coverY: 0
 ---
 
@@ -15,3 +16,6 @@ After purchasing your magnificent T-shirt, you will be able to practice your fav
 * **WITHDRAW YOUR STM TOKENS.**
 
 You can also choose to sell your T-shirt in the in-app marketplace, where other players can purchase this T-shirt to gain an in-game advantage.
+
+**Contract official:** 0x254433199984F5f43fFdA965d83a927635AFd300
+

@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/CAPA GITBOOK.jpg
 coverY: 0
 ---
 
@@ -13,4 +14,6 @@ In the closed beta phase of the app, you will receive 30 energy points daily, wh
 1. If you have 1 T-shirt, you will have 30 energy/day, 10 energy every 8 hours and a maximum of 1 energy rebuy
 2. If you have 3 T-shirts, you will have 90 energy/day, 30 energy every 8 hours and a maximum of 3 energy rebuy
 
-![](../.gitbook/assets/Energy.PNG)
+![ENERGY
+An amount of energy will be made available daily to encourage the practice of sports
+](../.gitbook/assets/ICON5.png)

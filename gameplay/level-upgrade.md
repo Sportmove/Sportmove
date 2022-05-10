@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/CAPA GITBOOK.jpg
 coverY: 0
 ---
 
@@ -9,7 +9,8 @@ You can upgrade the level of your T-shirt to increase it's stats. A new T-shirt 
 
 On each level upgrade, you will get  T-shirt Attribute Point as below:&#x20;
 
-![](../.gitbook/assets/level.PNG)
+![LEVEL
+Leveling up helps increase your shirt’s max stats (NFT)](../.gitbook/assets/ICON4.png)
 
 **Comfort**
 
@@ -17,13 +18,17 @@ On each level upgrade, you will get  T-shirt Attribute Point as below:&#x20;
 * Nylon T-Shirt: Every 10 levels reduces T-Shirt damage by 1 per turn
 * Mesh T-shirt: Every 5 levels reduces T-shirt damage by 1 per turn. Minimum 1 damage.
 
+![MARKET
+Place where you can trade, buy and sell your t-shirts (NFT)](../.gitbook/assets/ICON10.png)
+
 **Lucky**
 
 * Gilbert T-shirt: leveling up increases your Lucky Point by 1
 * Leonard T-shirt: leveling up increases your Lucky Point by 2
 * Mary T-shirt: leveling up increases your Lucky Point by 3
 
-![](../.gitbook/assets/aa.PNG)
+![LUCKY
+Every 8 hours Lucky Point draws random rewards, in which you can be rewarded](../.gitbook/assets/ICON6.png)
 
 **Stamina**
 
@@ -31,7 +36,8 @@ On each level upgrade, you will get  T-shirt Attribute Point as below:&#x20;
 * Satin T-shirt : leveling up increases your maximum Stamina Point by 3
 * Polyester T-shirt: leveling up increases your maximum Stamina Point by 5
 
-![](../.gitbook/assets/stamina.PNG)
+![STAMINA
+Each T-shirt (NFT) has an expiration date as shown by Stamina Point](../.gitbook/assets/ICON8.png)
 
 #### STM token
 

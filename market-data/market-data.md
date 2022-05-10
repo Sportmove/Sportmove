@@ -1,5 +1,6 @@
 ---
 description: To start, you need to download SPORTmove app
+cover: ../.gitbook/assets/CAPA GITBOOK.jpg
 coverY: 0
 ---
 
@@ -20,4 +21,9 @@ You are now ready!
 
 A small step for SPORTmove, but a huge leap for your health!
 
-![](../.gitbook/assets/phmarketplace.png) ![](<../.gitbook/assets/ph at.png>)
+![EASY TO Login
+Just enter your email and password and a verification code will go to your email](../.gitbook/assets/login11.png) ![SIMPLE TO Join
+Join the application in easy steps, enter the code sent to your email and start playing sports
+](../.gitbook/assets/aut11.png) ![EASY TO Buy
+Buy your package through the BSC network with the STM/BNB pair](../.gitbook/assets/phmarketplace.png) ![SPORT FOR Gains
+Earn SPORT MOVE or STM Token package parts on every sport you play](<../.gitbook/assets/pho at.png>)
