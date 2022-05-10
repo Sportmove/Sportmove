@@ -32,13 +32,17 @@
 
 * [🇬🇭 Tokenomics](tokenomics/tokenomics.md)
 
-## Group 1
+## Roadmap
 
-* [🏆 Roadmap](group-1/roadmap.md)
-* [🇺🇲 Team on the field](group-1/team-on-the-field.md)
+* [🏆 Roadmap](roadmap/roadmap.md)
+* [🇺🇲 Team on the field](roadmap/team-on-the-field.md)
 
 ## Social media
 
 * [🇹🇷 Telegram](https://t.me/sport\_move)
 * [🇲🇲 Medium](https://medium.com/@sportmoveearn)
 * [🇸🇦 Discord Channel](https://discord.com/invite/2K3JkznpUc)
+
+***
+
+* [Website](https://www.sportmove.app)
