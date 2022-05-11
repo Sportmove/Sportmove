@@ -44,3 +44,4 @@
 * [🇸🇦 Discord Channel](https://discord.com/invite/2K3JkznpUc)
 * [🇪🇬 Website](https://www.sportmove.app)
 * [🇵🇹 Twitter](https://twitter.com/sportmove\_)
+* [🇷🇺 Youtube](https://www.youtube.com/channel/UC3ilRVOWg9cuAay1D-DVWKA)
