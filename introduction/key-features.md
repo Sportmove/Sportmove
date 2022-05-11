@@ -10,3 +10,5 @@ coverY: 0
 **Creating a new culture:** We know that the great difficulty is in the change, in the creation of a habit, but from the moment that this change brings financial benefits, it becomes more interesting. So this is our SPORTmove mission, to bring health and reward to the new generation.
 
 **Earn in SPM/NFT:** Using the move-to-earn concept, we will enable everyone to have truly **STIMULATING** NFT's and rewards for playing sports.
+
+{% embed url="https://youtu.be/I7N39_y5udU" %}

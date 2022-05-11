@@ -36,3 +36,5 @@ STM will start purchasing an NFT T-shirt and start walking, playing football, pl
 
 * Purchasing 30 additional comfort points causes you to lose 20 STM.
 * Purchasing 30 additional Stamina points causes you to lose 20 STM
+
+{% embed url="https://youtu.be/Nfd5Mpr-pvs" %}

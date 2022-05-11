@@ -12,4 +12,6 @@ To track your sport activity, we have developed our in-app tracker where the use
 * Speed&#x20;
 * Earnings&#x20;
 * Ranges
-* Oxygen level\
+* Oxygen level
+
+{% embed url="https://youtu.be/VsP2Mk7mSsg" %}

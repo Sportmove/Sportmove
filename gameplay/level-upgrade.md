@@ -53,3 +53,4 @@ earn up to 4-7 tokens STM for 40 minutes of exercises](<../.gitbook/assets/RARE 
 earn up to 8-11 tokens STM for 50 minutes of exercises](<../.gitbook/assets/SUPERRARE (3).png>) ![T-shirt PRO MAX G.
 earn up to 12-15 tokens STM for 60 minutes of exercises](<../.gitbook/assets/COMMON (1).png>)
 
+{% embed url="https://youtu.be/rFb-Wr4SVDg" %}

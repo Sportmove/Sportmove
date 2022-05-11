@@ -19,3 +19,5 @@ You can also choose to sell your T-shirt in the in-app marketplace, where other 
 
 **Contract official:** 0x254433199984F5f43fFdA965d83a927635AFd300
 
+{% embed url="https://youtu.be/l8uI9Vu5KJE" %}
+

@@ -10,3 +10,4 @@ In the fusioning feature, you will be able to fusion 2 T-shirt  and create a who
 ![FUSION
 You will be able to fuse 2 Common rarity t-shirts, and get 1 higher rarity (NFT) t-shirt](../.gitbook/assets/ICON9.png)
 
+{% embed url="https://youtu.be/H1fnaJUBNUs" %}

@@ -11,3 +11,5 @@ For every t-shirt you own, you can spawn a new t-shirt every 30 days Collect 10 
 
 The Extreme crate will give you a random t-shirt and 1 boost that allows you to craft an STM token at level 1. Hmm.. Want to know what it is?
 
+{% embed url="https://youtu.be/SANbf01J4W4" %}
+

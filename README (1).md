@@ -14,3 +14,5 @@ We will revolutionize and adopt web 3 technology to our advantage, offering a pe
 
 With this we will solve the challenge of several applications that aim at a physically active and fit life.
 
+{% embed url="https://youtu.be/c5Dq4cpCgqc" %}
+

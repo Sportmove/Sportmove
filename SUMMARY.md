@@ -43,3 +43,4 @@
 * [🇲🇲 Medium](https://medium.com/@sportmoveearn)
 * [🇸🇦 Discord Channel](https://discord.com/invite/2K3JkznpUc)
 * [🇪🇬 Website](https://www.sportmove.app)
+* [🇵🇹 Twitter](https://twitter.com/sportmove\_)

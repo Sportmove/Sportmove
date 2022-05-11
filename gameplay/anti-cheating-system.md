@@ -18,3 +18,5 @@ Transferring a T-shirt from one account to another will cause the T-shirt to ent
 If energy is lost during the process of transferring the T-shirt from the inventory to the wallet, all unopened mystery boxes from the T-shirt account will be burned.
 
 Note that wasting power listing a T-shirt on the market will not burn out the mystery boxes.
+
+{% embed url="https://youtu.be/PXRdhDxDTs0" %}
