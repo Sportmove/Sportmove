@@ -45,3 +45,4 @@
 * [🇪🇬 Website](https://www.sportmove.app)
 * [🇵🇹 Twitter](https://twitter.com/sportmove\_)
 * [🇷🇺 Youtube](https://www.youtube.com/channel/UC3ilRVOWg9cuAay1D-DVWKA)
+* [🇨🇦 Linktree](https://linktr.ee/sport\_move22)
