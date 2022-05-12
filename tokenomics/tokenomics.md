@@ -37,3 +37,5 @@ STM token will be Fair Launch released in order to archive:
 
 1. Liquid pool: 2% for liquid pool
 2. Marketing and Reward Pool: 1%
+
+![](../.gitbook/assets/faqph.png) ![](../.gitbook/assets/Homeph.png)
