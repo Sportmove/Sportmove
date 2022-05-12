@@ -2,7 +2,7 @@
 
 ## introduction
 
-* [🇻🇳 Overview](README.md)
+* [🇨🇳 Overview](README.md)
 * [🇺🇾 SPORTmove mission](<README (1).md>)
 * [🇨🇲 Key Features](introduction/key-features.md)
 * [🏆 Millionaire sports](market-data/millionaire-sports.md)
@@ -17,9 +17,9 @@
 * [🇦🇷 Activity parameters](gameplay/activity-parameters.md)
 * [🇧🇷 Energy System](gameplay/page-1.md)
 * [🇨🇵 Level Upgrade](gameplay/level-upgrade.md)
-* [🇮🇹 Shirt attributes](gameplay/shirt-attributes.md)
+* [🇷🇸 Shirt attributes](gameplay/shirt-attributes.md)
 * [🇵🇱 SPORTmove box](gameplay/sportmove-box.md)
-* [🇧🇭 T-shirt Fusioning](gameplay/t-shirt-fusioning.md)
+* [🇺🇲 T-shirt Fusioning](gameplay/t-shirt-fusioning.md)
 * [🇦🇺 Anti-Cheating System](gameplay/anti-cheating-system.md)
 
 ## Market place
@@ -35,12 +35,12 @@
 ## Roadmap
 
 * [🏆 Roadmap](roadmap/roadmap.md)
-* [🇺🇲 Team on the field](roadmap/team-on-the-field.md)
+* [🏴󠁧󠁢󠁥󠁮󠁧󠁿 Team on the field](roadmap/team-on-the-field.md)
 
 ## Social media
 
-* [🇹🇷 Telegram](https://t.me/sport\_move)
-* [🇲🇲 Medium](https://medium.com/@sportmoveearn)
+* [🇯🇵 Telegram](https://t.me/sport\_move)
+* [🇩🇰 Medium](https://medium.com/@sportmoveearn)
 * [🇸🇦 Discord Channel](https://discord.com/invite/2K3JkznpUc)
 * [🇪🇬 Website](https://www.sportmove.app)
 * [🇵🇹 Twitter](https://twitter.com/sportmove\_)
