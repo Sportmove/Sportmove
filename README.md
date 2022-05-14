@@ -13,6 +13,7 @@ coverY: 0
 Purchase one of the various packages offered and differentiated in the form of T-shirts, practice any sport and you will earn cryptocurrencies in the game, which can be used in the application itself as you can withdraw and WIN practicing your favorite sport.
 
 **Contract official:** 0x254433199984F5f43fFdA965d83a927635AFd300\
+**KCY**:[https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf](https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf)\
 
 
 {% embed url="https://youtu.be/nl4LASe1YlY" %}

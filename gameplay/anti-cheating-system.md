@@ -19,4 +19,7 @@ If energy is lost during the process of transferring the T-shirt from the invent
 
 Note that wasting power listing a T-shirt on the market will not burn out the mystery boxes.
 
+**KCY**:[https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf](https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf)\
+
+
 {% embed url="https://youtu.be/PXRdhDxDTs0" %}

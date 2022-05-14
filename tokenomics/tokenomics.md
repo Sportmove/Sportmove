@@ -38,4 +38,7 @@ STM token will be Fair Launch released in order to archive:
 1. Liquid pool: 2% for liquid pool
 2. Marketing and Reward Pool: 1%
 
+**KCY**:[https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf](https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf)\
+
+
 ![](../.gitbook/assets/faqph.png) ![](../.gitbook/assets/Homeph.png)

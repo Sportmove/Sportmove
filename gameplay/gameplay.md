@@ -19,5 +19,8 @@ You can also choose to sell your T-shirt in the in-app marketplace, where other 
 
 **Contract official:** 0x254433199984F5f43fFdA965d83a927635AFd300
 
+**KCY**:[https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf](https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf)\
+
+
 {% embed url="https://youtu.be/l8uI9Vu5KJE" %}
 
