@@ -5,7 +5,7 @@ coverY: 0
 
 # 🇧🇪 Trading System
 
-Users can buy and sell NFT T-Shirts, STM Boxes, and Gems on the in-app Marketplace.
+Users can buy and sell NFT T-Shirts, SPORT Boxes, and Gems on the in-app Marketplace.
 
 ![Step 1
 Sign-up & Sign-in Create your account with email address, sign in with your email](../.gitbook/assets/cyber\_security\_15.png) ![Step 2

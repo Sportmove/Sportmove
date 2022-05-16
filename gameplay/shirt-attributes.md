@@ -3,16 +3,16 @@ cover: ../.gitbook/assets/CAPA GITBOOK.jpg
 coverY: 0
 ---
 
-# 🇮🇹 Shirt attributes
+# 🇷🇸 Shirt attributes
 
-STM will start purchasing an NFT T-shirt and start walking, playing football, playing volleyball, running and cycling. The calculation of the following factors:&#x20;
+SPORT will start purchasing an NFT T-shirt and start walking, playing football, playing volleyball, running and cycling. The calculation of the following factors:&#x20;
 
 **T-shirt**&#x20;
 
-* T-shirt In: 1-3 STM Tokens / 30 minutes of exercise.&#x20;
-* T-shirt Plus: 4-7 STM Tokens / 40 minutes of exercise.&#x20;
-* \-Pro T-shirt: 8-11 STM Tokens / 50 minutes of exercise.&#x20;
-* \-Pro Max Gold T-Shirt: 12-15 STM Tokens / 60 minutes of exercise.
+* T-shirt In: 1-3 SPORT Tokens / 30 minutes of exercise.&#x20;
+* T-shirt Plus: 4-7 SPORT Tokens / 40 minutes of exercise.&#x20;
+* \-Pro T-shirt: 8-11 SPORT Tokens / 50 minutes of exercise.&#x20;
+* \-Pro Max Gold T-Shirt: 12-15 SPORT Tokens / 60 minutes of exercise.
 
 **Comfort:**
 
@@ -34,7 +34,7 @@ STM will start purchasing an NFT T-shirt and start walking, playing football, pl
 
 **Repair**&#x20;
 
-* Purchasing 30 additional comfort points causes you to lose 20 STM.
-* Purchasing 30 additional Stamina points causes you to lose 20 STM
+* Purchasing 30 additional comfort points causes you to lose 20 SPORT.
+* Purchasing 30 additional Stamina points causes you to lose 20 SPORT
 
 {% embed url="https://youtu.be/Nfd5Mpr-pvs" %}

@@ -39,18 +39,18 @@ Every 8 hours Lucky Point draws random rewards, in which you can be rewarded](..
 ![STAMINA
 Each T-shirt (NFT) has an expiration date as shown by Stamina Point](../.gitbook/assets/ICON8.png)
 
-#### STM token
+#### SPORT token
 
-Users will have the option to choose between earning either **STM token** or **pieces of SPORTmove** at Level 30. Users can switch between these two earning modes freely. For STM releasing detail, refer to the **Tokenomic** section.
+Users will have the option to choose between earning either **SPORT token** or **pieces of SPORTmove** at Level 30. Users can switch between these two earning modes freely. For SPORT releasing detail, refer to the **Tokenomic** section.
 
-Each level upgrade will require the user to burn some STM tokens. Higher level upgrades will require more tokens.
+Each level upgrade will require the user to burn some SPORT tokens. Higher level upgrades will require more tokens.
 
 Each level upgrade will take time (in hours) same as the level user is upgrading to. While the  T-shirt is in upgrading process, It can not be used for any other activity apart from the working out and earning tokens.
 
 ![T-shirt  in
-earn up to 1-3 tokens STM for 30 minutes of exercises](<../.gitbook/assets/CHAMPION (3).png>) ![T-shirt PLUS
-earn up to 4-7 tokens STM for 40 minutes of exercises](<../.gitbook/assets/RARE (1).png>) ![T-shirt PRO
-earn up to 8-11 tokens STM for 50 minutes of exercises](<../.gitbook/assets/SUPERRARE (3).png>) ![T-shirt PRO MAX G.
-earn up to 12-15 tokens STM for 60 minutes of exercises](<../.gitbook/assets/COMMON (1).png>)
+earn up to 1-3 tokens SPORT for 30 minutes of exercises](<../.gitbook/assets/CHAMPION (3).png>) ![T-shirt PLUS
+earn up to 4-7 tokens SPORT for 40 minutes of exercises](<../.gitbook/assets/RARE (1).png>) ![T-shirt PRO
+earn up to 8-11 tokens SPORT for 50 minutes of exercises](<../.gitbook/assets/SUPERRARE (3).png>) ![T-shirt PRO MAX G.
+earn up to 12-15 tokens SPORT for 60 minutes of exercises](<../.gitbook/assets/COMMON (1).png>)
 
 {% embed url="https://youtu.be/rFb-Wr4SVDg" %}

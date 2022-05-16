@@ -7,7 +7,7 @@ coverY: 0
 
 ### Supply
 
-Total supply STM token: 50,000,000 STM
+Total supply SPORT token: 50,000,000 SPORT
 
 Presale 34%\
 Liquidity 17% \
@@ -15,11 +15,11 @@ Ecossytem App 45% (Locked) \
 Team 3% (Locked) \
 Pinksale 1% (Locked)
 
-#### STM Vesting Mechanics
+#### SPORT Vesting Mechanics
 
 #### Fair Launch Token Releasing
 
-STM token will be Fair Launch released in order to archive:
+SPORT token will be Fair Launch released in order to archive:
 
 * A decentralized crypto network that is earned, owned, and governed by the community from the outset.
 * Everyone can participate on equal footing.
