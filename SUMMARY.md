@@ -25,6 +25,7 @@
 ## Market place
 
 * [🇰🇷 Market Place](market-place/market-place.md)
+* [🇧🇭 Metaverse](market-place/metaverse.md)
 * [🇧🇪 Trading System](market-place/page-1.md)
 * [🇭🇷 Rare boxes and custom balls](market-place/rare-boxes-and-custom-balls.md)
 
