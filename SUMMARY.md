@@ -47,3 +47,4 @@
 * [🇵🇹 Twitter](https://twitter.com/sportmove\_)
 * [🇷🇺 Youtube](https://www.youtube.com/channel/UC3ilRVOWg9cuAay1D-DVWKA)
 * [🇨🇦 Linktree](https://linktr.ee/sport\_move22)
+* [🇨🇿 Reddit](https://www.reddit.com/r/Sportmove?utm\_medium=android\_app\&utm\_source=share)

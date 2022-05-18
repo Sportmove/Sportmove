@@ -9,11 +9,13 @@ coverY: 0
 
 Total supply SPORT token: 50,000,000 SPORT
 
-Presale 34%\
-Liquidity 17% \
-Ecossytem App 45% (Locked) \
-Team 3% (Locked) \
-Pinksale 1% (Locked)
+Public Sale 23%\
+List 14%\
+CEX listing 10%\
+Ecossytem App 12%  \
+Team 3% \
+Airdrop 2%\
+M2E 28%
 
 #### SPORT Vesting Mechanics
 
@@ -32,13 +34,17 @@ SPORT token will be Fair Launch released in order to archive:
 
 #### Selling tax allocation
 
-* Buying tax is 1% - That means you buy token for FREE
-* Selling tax is 3% - This 3% will be divided in 2 pools
+* Buying tax is 0% - That means you buy token for FREE
+* Selling tax is 0%&#x20;
 
-1. Liquid pool: 2% for liquid pool
-2. Marketing and Reward Pool: 1%
+**KYC**:\
+[https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf](https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf)
 
-**KCY**:[https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf](https://github.com/ContractChecker/KYC/blob/main/Sport%20Move%20Project%20KYC%20Certificate%20By%20ContractChecker.pdf)\
+AUDIT:\
+[https://github.com/freshcoins/Smart-Contract-Audits/blob/main/SportMove\_0x254433199984F5f43fFdA965d83a927635AFd300.pdf](https://github.com/freshcoins/Smart-Contract-Audits/blob/main/SportMove\_0x254433199984F5f43fFdA965d83a927635AFd300.pdf)
+
+FAIRLAUNCH\
+[https://www.pinksale.finance/launchpad/0x80ba4737e3ea6CCcd5f9af0f157330979fc4F226?chain=BSC](https://www.pinksale.finance/launchpad/0x80ba4737e3ea6CCcd5f9af0f157330979fc4F226?chain=BSC)\
 
 
 ![](../.gitbook/assets/faqph.png) ![](../.gitbook/assets/Homeph.png)
